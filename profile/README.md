@@ -15,8 +15,8 @@ Subscribe for comprehensive AI development tutorials with .NET:
 
 | Episode | Title | Repository | Topics Covered | Status |
 |---------|-------|------------|----------------|--------|
-| **01** | **Sarcastic AI Chatbot** | [📁 BasicChatBot](https://github.com/DotNetAIGuy/BasicChatBot) | Ollama + Semantic Kernel + Blazor | ✅ Complete |
-| **02** | **Multi-Agent Conversations** | [📁 AutoGen-Basics](https://github.com/DotNetAIGuy/AutoGen-Basics) | AutoGen .NET Framework | 🚧 Coming Soon |
+| **01** | **Sarcastic AI Chatbot** | [📁 BasicChatBot](https://github.com/DotNetAIGuy/DotNet-AI-ChatBot-Semantic-Kernel-Ollama-Local) | Ollama + Semantic Kernel + Blazor | ✅ Complete |
+
 
 
 ## 🛠️ Technologies Covered
@@ -111,8 +111,6 @@ We welcome contributions to improve the projects:
 - [Visual Studio AI Tools](https://visualstudio.microsoft.com/vs/features/ai/)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [Azure AI Studio](https://azure.microsoft.com/products/ai-studio/)
-
-## 🎯 Upcoming Content
 
 ## 📄 License
 
